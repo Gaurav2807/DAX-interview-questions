@@ -11,3 +11,11 @@ This repository contains a focused collection of Power BI problem statements and
 
 ## How you can contribute
 * Add more such problem statements and their solutions.
+
+## Video Tutorial Link
+
+[Top 10 Power BI DAX Interview Questions and Answers](https://www.youtube.com/watch?v=WyBdr48EfXs) (Question -> 1 - 8)
+
+[Top 10 Power BI Interview Questions | Asked in Interviews 2024](https://www.youtube.com/watch?v=zIPIt3fO2cg) (Question -> 9 - )
+
+
